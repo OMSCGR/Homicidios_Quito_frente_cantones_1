@@ -1,0 +1,2 @@
+Qué tan seguro es Quito frente al resto de cantones?: https://omscgr.github.io/Homicidios_Quito_frente_cantones_1/
+Notebook: https://colab.research.google.com/drive/1S56Zd7lhNsDDVhN7zg9FhOcNcVYRKBw4?usp=sharing
